@@ -1,10 +1,6 @@
 # ExpertSystem
 Opensource Expert System  with Fuzzy Logic to control industrial process using Python Notebook. [(see it here)]
-(https://github.com/thimotio/ExpertSystem)
-
-# industrial-accident-analyses
-Exploratory Analyses of Industrial Labor Accidents using Python Notebook [(see it here)](http://nbviewer.jupyter.org/github/ihmstefanini/industrial-accident-analyses/blob/master/IHMStefanini_Exploratory_Analyses_Industrial_Labor_Accidents.ipynb)
-
+(http://nbviewer.jupyter.org/github/thimotio/ExpertSystem/blob/master/Froth_Flotation_Fuzzy_Control_v01.ipynb)
 
 # Motivation
 Did you know that you could develop advanced industrial process control systems without having to resort to proprietary software?
@@ -18,6 +14,7 @@ The Fuzzy control should acts on reagents and froth level to obtain quality goal
 
 # Further details
  - Programming Language for data analysis: **Python**
+ - Fuzzy control: **scikit-fuzzy**
  - Data handling tools: **pandas** helping with data-frame operations
  - Data Visualization tools: **Mathplotlib**
  
@@ -29,3 +26,7 @@ For application in real cases of process in the industry it is necessary to mode
 
 Authors are responsible for the results of using this code without proper precautions.
 
+See [Licence.txt](https://github.com/thimotio/ExpertSystem/blob/master/Licence.txt).
+
+Copyright (c) 2012, the scikit-fuzzy team
+All rights reserved
